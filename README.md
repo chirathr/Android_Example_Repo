@@ -1,6 +1,6 @@
 ### RecyclerView example app
 
-This is the code for the Android tutorial at [blog.chirathr.com](https://blog.chirathr.com/)
+This repo has the example code for the Android tutorial found at [blog.chirathr.com](https://blog.chirathr.com/)
 
 #### [Android - Creating a List of Cards using RecyclerView](https://blog.chirathr.com/android/2018/08/23/android-recycler-view/)
 ![Recycler View](/screenshots/main_image.jpg)
